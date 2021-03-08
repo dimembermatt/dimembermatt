@@ -29,6 +29,6 @@ I'm not sure where I want to be in a couple years time, but I know that I want
 to be close to the hardware, building tangible, sustainable, and helpful devices
 and experiences for other humans.
 
-Feel free to contact me on [linkedin](www.linkedin.com/in/dimembermatt
-) if any of these topics interest you, or if you just want to learn more about
+Feel free to contact me on [linkedin](www.linkedin.com/in/dimembermatt) 
+if any of these topics interest you, or if you just want to learn more about
 me!
