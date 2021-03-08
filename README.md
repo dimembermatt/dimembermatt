@@ -3,8 +3,7 @@
 Hey, I'm [Matthew Yu](https://dimembermatt.github.io/), an Electrical and
 Computer Engineering student at the University of Texas at Austin. My focus is
 on embedded systems, but I like to take detours and have worked with everything
-from web development to [generative
-art](https://dimembermatt.github.io/Generative_Art/).
+from web development to [generative art](https://dimembermatt.github.io/Generative_Art/).
 
 I was a software intern at Cisco (Summer 2019), Qualcomm (Summer 2020), and
 Relativity Space (Fall 2020). I will be returning to Qualcomm this summer to
@@ -29,6 +28,6 @@ I'm not sure where I want to be in a couple years time, but I know that I want
 to be close to the hardware, building tangible, sustainable, and helpful devices
 and experiences for other humans.
 
-Feel free to contact me on [linkedin](www.linkedin.com/in/dimembermatt) 
+Feel free to contact me on [linkedin](https://www.linkedin.com/in/dimembermatt/) 
 if any of these topics interest you, or if you just want to learn more about
 me!
