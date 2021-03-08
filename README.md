@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**dimembermatt/dimembermatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm [Matthew Yu](https://dimembermatt.github.io/), an Electrical and
+Computer Engineering student at the University of Texas at Austin. My focus is
+on embedded systems, but I like to take detours and have worked with everything
+from web development to [generative
+art](https://dimembermatt.github.io/Generative_Art/).
 
-Here are some ideas to get you started:
+I was a software intern at Cisco (Summer 2019), Qualcomm (Summer 2020), and
+Relativity Space (Fall 2020). I will be returning to Qualcomm this summer to
+work with their amazing RFSW team once again.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a constantly active member and leader in UT's Longhorn Racing Solar
+team, the Texas Rocket Engineering Lab, and the IEEE Robotics and Automation
+Society. A couple of the organization projects I have a hand in are listed below!
+
+- Designing and manufacturing solar powered systems.
+- Developing Maximum Power Point Tracker hardware and software, with a research
+  focus on new MPPT algorithms for multistring photovoltaics.
+- Writing the codebase for TREL's Mission Control System application software.
+- Interfacing a robot swarm and mothership for outreach.
+- And codirecting IEEE RAS' yearly freshman robotics competition.
+
+All of these different projects are tricky to juggle and involve a lot of
+personal investment, but my passion for these orgs, what they represent, and
+their end goals drive me to keep doing my best every day.
+
+I'm not sure where I want to be in a couple years time, but I know that I want
+to be close to the hardware, building tangible, sustainable, and helpful devices
+and experiences for other humans.
+
+Feel free to contact me on [linkedin](www.linkedin.com/in/dimembermatt
+) if any of these topics interest you, or if you just want to learn more about
+me!
