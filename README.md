@@ -6,8 +6,8 @@ on embedded systems, but I like to take detours and have worked with everything
 from web development to [generative art](https://dimembermatt.github.io/Generative_Art/).
 
 I was a software intern at Cisco (Summer 2019), Qualcomm (Summer 2020), and
-Relativity Space (Fall 2020). I will be returning to Qualcomm this summer to
-work with their amazing RFSW team once again.
+Relativity Space (Fall 2020). I am currently working with Qualcomm's RFSW team
+again this summer on optimizing build systems and building new tooling.
 
 I am also a constantly active member and leader in UT's Longhorn Racing Solar
 team, the Texas Rocket Engineering Lab, and the IEEE Robotics and Automation
