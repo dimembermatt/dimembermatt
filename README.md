@@ -5,9 +5,9 @@ Computer Engineering student at the University of Texas at Austin. My focus is
 on embedded systems, but I like to take detours and have worked with everything
 from web development to [generative art](https://dimembermatt.github.io/Generative_Art/).
 
-I was a software intern at Cisco (Summer 2019), Qualcomm (Summer 2020), and
-Relativity Space (Fall 2020). I am currently working with Qualcomm's RFSW team
-again this summer on optimizing build systems and building new tooling.
+I was a software intern at Cisco (Summer 2019), Qualcomm (Summer 2020, Summer 2021), and
+Relativity Space (Fall 2020). I am currently a teaching assistant for EE445L (Embedded 
+systems design lab) at UT.
 
 I am also a constantly active member and leader in UT's Longhorn Racing Solar
 team, the Texas Rocket Engineering Lab, and the IEEE Robotics and Automation
