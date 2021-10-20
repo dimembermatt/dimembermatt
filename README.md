@@ -24,9 +24,9 @@ All of these different projects are tricky to juggle and involve a lot of
 personal investment, but my passion for these orgs, what they represent, and
 their end goals drive me to keep doing my best every day.
 
-I'm not sure where I want to be in a couple years time, but I know that I want
-to be close to the hardware, building tangible, sustainable, and helpful devices
-and experiences for other humans.
+I'm currently applying for a Master's in embedded systems for Spring 2022, but am 
+also looking for great opportunities to be close to hardware, building tangible, 
+sustainable, and helpful devices and experiences for other humans.
 
 Feel free to contact me on [linkedin](https://www.linkedin.com/in/dimembermatt/) 
 if any of these topics interest you, or if you just want to learn more about
