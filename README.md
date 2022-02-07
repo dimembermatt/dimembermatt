@@ -7,26 +7,17 @@ from web development to [generative art](https://dimembermatt.github.io/Generati
 
 I was a software intern at Cisco (Summer 2019), Qualcomm (Summer 2020, Summer 2021), and
 Relativity Space (Fall 2020). I am currently a teaching assistant for EE445L (Embedded 
-systems design lab) at UT.
+systems design lab, Fall 2021, Spring 2022) at UT.
 
-I am also a constantly active member and leader in UT's Longhorn Racing Solar
-team, the Texas Rocket Engineering Lab, and the IEEE Robotics and Automation
-Society. A couple of the organization projects I have a hand in are listed below!
+I am also an active member and leader in UT's Longhorn Racing Solar team, the Texas Rocket 
+Engineering Lab, and the IEEE Robotics and Automation Society. At the end of the day, these
+organizations require a lot of personal investment, but my passion for these orgs, what they 
+represent, and their end goals drive me to keep doing my best every day.
 
-- Designing and manufacturing solar powered systems.
-- Developing Maximum Power Point Tracker hardware and software, with a research
-  focus on new MPPT algorithms for multistring photovoltaics.
-- Writing the codebase for TREL's Mission Control System application software.
-- Interfacing a robot swarm and mothership for outreach.
-- And codirecting IEEE RAS' yearly freshman robotics competition.
-
-All of these different projects are tricky to juggle and involve a lot of
-personal investment, but my passion for these orgs, what they represent, and
-their end goals drive me to keep doing my best every day.
-
-I'm currently applying for a Master's in embedded systems for Spring 2022, but am 
-also looking for great opportunities to be close to hardware, building tangible, 
-sustainable, and helpful devices and experiences for other humans.
+I'm currently working towards graduating with a Master's degree in embedded systems in 
+Spring 2023, but am also looking for great opportunities to be close to hardware, 
+building tangible, sustainable, and helpful devices and experiences for other humans. 
+At the moment I'm very interested in EMI, DfT, and DfM best practicies for PCBs.
 
 Feel free to contact me on [linkedin](https://www.linkedin.com/in/dimembermatt/) 
 if any of these topics interest you, or if you just want to learn more about
